@@ -11,8 +11,8 @@ ed
 
 def __str__():
     if (self.godkänd == "glad"):
-    print("Du är godkänd!")
-    print(p1)
+      print("Du är godkänd!")
+      print(p1)
     else:
-    print("Du är inte godkänd")
+      print("Du är inte godkänd")
     
